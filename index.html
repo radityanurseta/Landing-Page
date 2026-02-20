@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Media Edukasi Pendidikan Agama Islam</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/style.css" />
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <div id="particles-js"></div>
+
+  <!-- NAVBAR -->
+  <header id="navbar">
+    <h1>Media Edukasi Pendidikan Agama Islam</h1>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#latest">Judul & Mater</a>
+      <a href="#themes">Artikel Terbaru</a>
+      <button id="themeToggle">🌙</button>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero" id="home">
+    <div class="hero-content reveal">
+      <h2>Portal Literasi Digital Masa Depan</h2>
+      <p>Menyediakan materi Pendidikan Agama Islam yang sistematis, ilmiah, dan relevan dengan perkembangan zaman.</p>
+      <a href="#themes" class="btn">Mulai Sekarang</a>
+    </div>
+  </section>
+
+
+ <!-- ARTIKEL TERBARU -->
+<section class="latest" id="latest">
+  <h3>📚 Artikel Terbaru</h3>
+
+  <div class="blog-container">
+
+    <div class="blog-card">
+      <div class="blog-content">
+        <span class="date">20 Februari 2026</span>
+        <h4>Studi kasus yang membatalkan syahdatain</h4>
+        <p>Memahami perbedaan antara syariah sebagai hukum ilahi dan fiqh sebagai hasil ijtihad ulama...</p>
+        <a href="detail.html?materi=hukum-islam" class="btn">
+  Baca Artikel
+</a>
+      </div>
+    </div>
+
+    <div class="blog-card">
+      <div class="blog-content">
+        <span class="date">18 Februari 2026</span>
+        <h4>Urgensi Akhlak di Era Digital</h4>
+        <p>Pentingnya menjaga adab dan etika dalam bermedia sosial sesuai ajaran Islam...</p>
+        <button class="btn" onclick="showArticle('digital')">Baca Artikel</button>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+  <footer>
+    © 2026 PortalX. All Rights Reserved.
+  </footer>
+
+  <!-- Particles JS CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+
+  <!-- JS -->
+  <script src="js/script.js"></script>
+
+  <section class="themes" id="themes">
+  <h3 class="reveal">Judul & Materi</h3>
+
+  <div class="cards">
+
+    <div class="card reveal">
+      <h4>Hukum Islam</h4>
+      <p>Studi kasus yang membatalkan syahdatain</p>
+      <a href="detail.html?materi=hukum-islam" class="btn">Baca Selengkapnya</a>
+    </div>
+
+    <div class="card reveal">
+      <h4>Akhlak dalam Islam</h4>
+      <p>Konsep akhlak dan implementasinya dalam kehidupan.</p>
+      <a href="detail.html?materi=akhlak" class="btn">Baca Selengkapnya</a>
+    </div>
+
+    <div class="card reveal">
+      <h4>Fiqh Ibadah</h4>
+      <p>Tata cara ibadah sesuai syariat.</p>
+      <a href="detail.html?materi=fiqh" class="btn">Baca Selengkapnya</a>
+    </div>
+
+  </div>
+</section>
+</body>
+</html>
