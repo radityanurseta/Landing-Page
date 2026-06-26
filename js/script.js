@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <ul>
             <li>1. Menyekutukan Allah (syirik).
             Yaitu memalingkan ibadah yang khusus milik Allah kepada selain-Nya, misalnya berdo'a, memohon syafa'at, bertawakal, beristighatsah, bernadzar, dan menyembelih, yang ditujukan kepada selain Allah. Seperti menyembelih untuk jin atau untuk penghuni kubur, dengan keyakinan bahwa para sesembahan selain Allah itu dapat menolak bahaya atau dapat mendatangkan manfaat. Allah Subhanahu wa Ta'ala berfirman:
-            إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَلِكَ لِمَنْ يَشَاءُ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدْ افْتَرَى إِثْمًا عَظِيمًا
+            إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَلِكَ لِمَنْ يَشَاءُ وَمَنْ يُشْرَكْ بِاللَّهِ فَقَدْ افْتَرَى إِثْمًا عَظِيمًا
             "Sesungguhnya Allah tidak akan mengampuni dosa syirik, dan Dia mengampuni segala dosa yang selain dari (syirik) itu, bagi siapa yang dikehendaki-Nya…" (QS. An-Nisa': 48).</li>
             <li>2. Tidak mengkafirkan orang-orang musyrik, atau meragukan kekafiran mereka, atau membenarkan pendapat mereka.
             Yaitu orang yang tidak mengkafirkan orang-orang kafir, baik dari kalangan Yahudi, Nasrani maupun Majusi, orang-orang musyrik, atau orang-orang mulhid (Atheis), atau selain itu dari berbagai macam kekufuran, atau seseorang meragukan kekafiran mereka, atau membenarkan pendapat mereka, maka orang tersebut telah batal keimanannya. Allah Subhanahu wa Ta'ala berfirman:
@@ -202,6 +202,41 @@ document.addEventListener("DOMContentLoaded", function () {
             <li>Al-Mawardi, Abu al-Hasan. <em>Adab al-Dunya wa al-Din</em>.</li>
             <li>Al-Baihaqi. <em>Shu'ab al-Iman</em>.</li>
             <li>Ibn Qudamah. <em>Al-Mughni</em>.</li>
+          </ol>
+        `
+      },
+      "harmoni-digital": {
+        title: "Menjaga Harmoni: Strategi dan Sikap Menghadapi Pergeseran Moral serta Nilai Agama di Era Digital",
+        content: `
+          <p><strong>1. Pendahuluan</strong></p>
+          <p>Masyarakat kontemporer tengah mengalami transformasi kultural dan struktural yang sangat masif akibat disrupsi teknologi informasi. Di satu sisi, digitalisasi membuka ruang bagi demokratisasi informasi; di sisi lain, fenomena ini membawa tantangan serius terhadap eksistensi nilai moral tradisi dan norma agama. Seringkali kita menjumpai kelompok atau individu di ruang publik maupun maya yang perilakunya secara benderang bertentangan dengan pakem moralitas dan ajaran spiritual yang dianut oleh mayoritas masyarakat Indonesia. Menghadapi realitas keberagaman dan degradasi ini, diperlukan sebuah formula sikap yang tidak hanya reaktif-menghakimi, melainkan solutif, edukatif, dan berbasis pada nilai-nilai kemanusiaan universal.</p>
+
+          <p><strong>2. Tinjauan Filosofis dan Teologis</strong></p>
+          <p>Dalam perspektif sosiologi moral, norma sosial berfungsi sebagai integrator masyarakat agar terhindar dari kondisi anomie (situasi tanpa arah dan norma). Dari sudut pandang teologis (khususnya nilai luhur Pendidikan Agama), menyikapi penyimpangan tidak boleh dilakukan dengan cara yang melanggar esensi agama itu sendiri. Agama diturunkan sebagai rahmat (rahmatan lil 'alamin), sehingga metodologi perbaikan moral harus mengedepankan pendekatan yang persuasif (dakwah bil-hikmah) serta diskusi yang bersandar pada argumentasi logis-humanis (mau'idzah hasanah), bukan dengan kekerasan struktural maupun verbal.</p>
+
+          <p><strong>3. Strategi Sikap Menghadapi Penyimpangan Moral</strong></p>
+          <p>Untuk menyikapi fenomena masyarakat yang tidak selaras dengan nilai moral dan agama, beberapa langkah strategis yang dapat diambil antara lain:</p>
+          <ul>
+            <li><strong>Edukasi dan Literasi Digital:</strong> Memperkuat fondasi berpikir kritis agar masyarakat mampu memfilter budaya asing yang destruktif tanpa kehilangan identitas religiusnya.</li>
+            <li><strong>Pendekatan Persuasif (Humanis):</strong> Merangkul pelaku penyimpangan melalui dialog konstruktif, bukan melakukan pengucilan (social shaming) yang justru berpotensi membuat mereka semakin resisten.</li>
+            <li><strong>Optimalisasi Fungsi Komunitas Komunal:</strong> Menghidupkan kembali ruang-ruang diskusi positif di tingkat keluarga, instansi pendidikan, hingga lingkungan kerja untuk menggaungkan kembali pentingnya etika profesi dan sosial.</li>
+            <li><strong>Penegakan Aturan (Law Enforcement) yang Adil:</strong> Jika penyimpangan tersebut telah melanggar hukum positif (seperti perjudian atau penipuan), maka penyelesaian wajib diserahkan kepada koridor hukum yang berlaku demi menjaga ketertiban umum.</li>
+          </ul>
+
+          <p><strong>4. Studi Kasus: Maraknya Normalisasi Judi Online dan Pinjaman Online Ilegal di Lingkungan Masyarakat Digital</strong></p>
+          <p><strong>Opini Pribadi Mengenai Studi Kasus:</strong></p>
+          <p>Fenomena maraknya judi online (judol) dan pinjaman online ilegal merupakan salah satu bentuk nyata dari degradasi moral dan pelanggaran nilai agama yang sangat masif di era siber ini. Perilaku ini tidak hanya merusak tatanan ekonomi individu, tetapi juga menghancurkan ketahanan keluarga dan memicu kriminalitas turunan (seperti pencurian dan penipuan).</p>
+          <p>Dari sudut pandang nilai norma, aktivitas ini mencerminkan hilangnya budaya kerja keras dan jujur, digantikan oleh mentalitas instan (shortcut mentality) untuk mendapatkan kekayaan secara cepat tanpa usaha yang sah. Dari segi agama, seluruh ajaran agama secara tegas melarang perjudian karena sifatnya yang spekulatif, eksploitatif, dan merusak akal sehat manusia.</p>
+          <p>Sebagai mahasiswa Teknik Informatika, saya memandang bahwa pendekatan teknis seperti pemblokiran situs oleh pemerintah (cybersecurity barrier) tidak akan pernah cukup jika tidak dibarengi dengan literasi finansial dan penguatan mental spiritual di tingkat akar rumput. Masyarakat perlu disadarkan kembali bahwa teknologi harus diadopsi untuk meningkatkan produktivitas dan kesejahteraan, bukan sebagai alat pemuas keserakahan yang melanggar batasan moral dan syariat agama. Penyelesaian masalah ini membutuhkan sinergi kuat antara penegak hukum, akademisi IT, tokoh agama, dan komunitas lokal.</p>
+
+          <p><strong>5. Kesimpulan</strong></p>
+          <p>Menyikapi masyarakat yang berada di luar koridor moral dan agama membutuhkan kedewasaan berpikir. Tindakan menghakimi secara sepihak hanya akan memperlebar polarisasi sosial. Sebaliknya, kombinasi antara ketegasan hukum, kelembutan pendekatan personal, serta penguatan edukasi nilai adalah kunci utama dalam merajut kembali keharmonisan sosial di tengah derasnya arus modernisasi.</p>
+
+          <p><strong>Referensi:</strong></p>
+          <ol>
+            <li>Azra, A. (2019). <em>Pendidikan Islam: Tradisi dan Modernisasi di Tengah Tantangan Milenium Ketiga</em>. Jakarta: Kencana.</li>
+            <li>Turner, B. S. (2012). <em>Religi dan Teori Sosial</em>. Yogyakarta: Pustaka Pelajar.</li>
+            <li>Magnis-Suseno, F. (2001). <em>Etika Sosial: Buku Panduan Mahasiswa</em>. Jakarta: Gramedia Pustaka Utama.</li>
           </ol>
         `
       }
